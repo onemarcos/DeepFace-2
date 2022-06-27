@@ -1,5 +1,5 @@
 # DeepFace-2
-Testing DeepFace library with age, gender and emotion prediction.
+Testing DeepFace library with age, gender, face recognition and emotion prediction.
 
 <img
   src="/Assets/Screenshot-2022-05-22.jpg"
